@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,HBO HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
+#EXTINF:-1 ,HBO PLUS HD
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2793
 #EXTINF:-1, HBO Family HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
 #EXTINF:-1 ,HBO 2 HD
